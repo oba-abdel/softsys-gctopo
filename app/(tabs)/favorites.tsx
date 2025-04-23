@@ -1,11 +1,10 @@
 import { View,Text } from "react-native";
 
-export default function Categories(){
+export default function Favorites(){
 
     return (
         <View>
-            <Text>Categories page</Text>
-          
+            <Text> Favorites page</Text>
         </View>
     )
 }
