@@ -1,10 +1,10 @@
 import { View,Text } from "react-native";
 
-export default function App(){
+export default function Categories(){
 
     return (
         <View>
-            <Text>Home page</Text>
+            <Text>Categories page</Text>
         </View>
     )
 }

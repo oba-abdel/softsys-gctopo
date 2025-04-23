@@ -1,10 +1,10 @@
 import { View,Text } from "react-native";
 
-export default function App(){
+export default function Panier(){
 
     return (
         <View>
-            <Text>Home page</Text>
+            <Text>Panier page</Text>
         </View>
     )
 }

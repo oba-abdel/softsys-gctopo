@@ -1,10 +1,10 @@
 import { View,Text } from "react-native";
 
-export default function App(){
+export default function Profil(){
 
     return (
         <View>
-            <Text>Home page</Text>
+            <Text>User profil page</Text>
         </View>
     )
 }
